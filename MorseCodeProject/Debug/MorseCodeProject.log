@@ -1,0 +1,9 @@
+﻿  BinaryTree.cpp
+c:\users\moody\source\repos\morsecodeproject\morsecodeproject\binarysearchtree.h(130): warning C4018: '<': signed/unsigned mismatch
+  c:\users\moody\source\repos\morsecodeproject\morsecodeproject\binarysearchtree.h(119): note: while compiling class template member function 'bool BinarySearchTree<std::string>::insert(BTNode<Item_Type> *&,const Item_Type &,const Item_Type &)'
+          with
+          [
+              Item_Type=std::string
+          ]
+  c:\users\moody\source\repos\morsecodeproject\morsecodeproject\morsecode.h(12): note: see reference to class template instantiation 'BinarySearchTree<std::string>' being compiled
+  MorseCodeProject.vcxproj -> C:\Users\Moody\source\repos\MorseCodeProject\Debug\MorseCodeProject.exe
